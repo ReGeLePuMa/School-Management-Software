@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Vector;
 public class Catalog implements ISubject
 {
-    public static Catalog instanta=null;
+    private static Catalog instanta=null;
     private ArrayList<Course> materii;
     private ArrayList<IObserver> parinti;
     private Map<IObserver,Vector<Notification>> notificari;

@@ -68,13 +68,13 @@ urmatorii utilizatori:
 Am creat o interfata grafica de logare in care utilizatorul isi introduce email-ul si parola in
 felul urmator:
 
-![alt text](https://scontent.fcra2-1.fna.fbcdn.net/v/t1.15752-9/334881689_959416835057231_6435781668458363598_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=BqCefQRqQoQAX-d1rz4&_nc_ht=scontent.fcra2-1.fna&oh=03_AdR-_5XgCX5M7DOSPc8KYvadHZXPHMamAu3Y0EQ7nigWhw&oe=6436FB41)
+![alt text](https://github.com/ReGeLePuMa/array-sorting-algorithms/assets/93268175/0ed4f680-bf06-43be-a62e-d962cc9f0f08)
 
 
 Daca nu corespunde rolul lor cu domeniul adresei de email sau email-ul/parola este gresita
 atunci va aparea mesajul cu autentificarea invalida
 
-![alt text](https://scontent.fcra2-1.fna.fbcdn.net/v/t1.15752-9/335708239_862611391473325_7561230854877190093_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=OM76vPT0h8AAX831w8c&_nc_ht=scontent.fcra2-1.fna&oh=03_AdTiG8k_z7_iHzOtv-FWJ-Yo-EISGjxKSXXdfJ0rd2wkPA&oe=64370F51)
+![alt text](https://github.com/ReGeLePuMa/array-sorting-algorithms/assets/93268175/9139d2ea-5a46-44ff-a04c-0226a57940f0)
 
 Odata autentificat, acestuia i se va afisa pagina corespunzatoare cu rolul acestuia.
 
@@ -86,7 +86,7 @@ Teacher/Assistant) trebuie_ **_sa va delogati si sa va logati_** _din nou!_
 
 ### Student
 
-![alt text](https://scontent.fcra2-1.fna.fbcdn.net/v/t1.15752-9/334881689_1155234195142693_742454445323488000_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=P0ORTWgh9Y8AX_owCKW&_nc_ht=scontent.fcra2-1.fna&oh=03_AdR3PsMT8T9hZ6ggI_hg0dt0KEMynGnJMjZi7d1r4PHTpQ&oe=6436F31C)
+![alt text](https://github.com/ReGeLePuMa/array-sorting-algorithms/assets/93268175/cb400d73-ebc5-4901-810b-6df3a33273ab)
 
 Aici studentul poate vedea cursurile la care este inrolat si notele obtinute la acel curs. Cand
 apasa pe el acesta poate vedea toate detaliile aferente cursului revelente lui.
@@ -94,24 +94,24 @@ apasa pe el acesta poate vedea toate detaliile aferente cursului revelente lui.
 
 ### Teacher/Assistant
 
-![alt text](https://scontent.fcra2-1.fna.fbcdn.net/v/t1.15752-9/335590626_6176795475675191_695109255663343573_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=um1FO0vb8Z4AX_-rF3e&_nc_ht=scontent.fcra2-1.fna&oh=03_AdQTH55BYyGNphXjzP--Mk0NydmtcOm7D6E6b53tebRIqw&oe=6436F174)
+![alt text](https://github.com/ReGeLePuMa/array-sorting-algorithms/assets/93268175/b117e753-39c0-425d-a822-4d95acdb812e)
 
 Aici profesorul/asistentul poate sa vada detalii despre toate cursurile din care acesta face
 parte. Apasand pe curs, acesta are la dispozitie un tabel cu toti studentii in care acesta
 poate sa treaca nota( examen – profesor ; partial – asistent)
 
-![alt text](https://scontent.fcra2-1.fna.fbcdn.net/v/t1.15752-9/335925471_1192548608293720_183139217291193915_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=mwsZeOCE0esAX_ip1qZ&_nc_ht=scontent.fcra2-1.fna&oh=03_AdTEkc78ofspU8OTSQtsaFle3u4698IkW2ehVSNDVZDmIw&oe=643704B3)
+![alt text](https://github.com/ReGeLePuMa/array-sorting-algorithms/assets/93268175/4e8a4dab-059e-4c07-ab13-c31027d7726f)
 
 Daca acesta incearca sa editeze un camp ce nu ii intra sub jurisdictie atunci se va afisa
 mesajul:
 
-![alt text](https://scontent.fcra2-1.fna.fbcdn.net/v/t1.15752-9/333203774_2089211617939744_926957779176936032_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=8JoqdUp2ngAAX9a6CAG&_nc_ht=scontent.fcra2-1.fna&oh=03_AdR6sirnQCl_J7YFevvW37WYotawX45w532SquddC7MThQ&oe=6437048D)
+![alt text](https://github.com/ReGeLePuMa/array-sorting-algorithms/assets/93268175/2b38aab6-77fd-45e0-a8d8-c19029a3a74e)
 
 
 Odata ce a terminat de introdus notele acesta are butonul de validare care v-a trasmite
 schimbarile catre catalog si va notifica partintii de notele studentilor.
 
-![alt text](https://scontent.fcra2-1.fna.fbcdn.net/v/t1.15752-9/335912024_157901387139545_3642781204960923204_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=18ApMHZrsdIAX-L2Khp&_nc_ht=scontent.fcra2-1.fna&oh=03_AdQG56rZ-Z4dyhTDh0EOasYqKT7c6wr-V8Xfci5sobTqGw&oe=6436EE25)
+![alt text](https://github.com/ReGeLePuMa/array-sorting-algorithms/assets/93268175/e8a52815-4688-4ce9-959e-4816e35e5da7)
 
 ### Parent
 
@@ -119,7 +119,7 @@ Aici un parinte primeste email-uri de la facultate cu notele obtinute de elev.
 
 Dand click pe email acesta poate vedea continutul sau.
 
-![alt text](https://scontent.fcra2-1.fna.fbcdn.net/v/t1.15752-9/336381858_1248971439388553_332189985290978041_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Bp3ovNE-M4EAX-dYKt4&_nc_ht=scontent.fcra2-1.fna&oh=03_AdS70ualk1NyRvLwZ27xLw893QO1sYREmVUoAprROxe_AA&oe=6436FDB7)
+![alt text](https://github.com/ReGeLePuMa/array-sorting-algorithms/assets/93268175/11a414a5-1ce0-4cf9-8116-a1970c8230e8)
 
 
 
